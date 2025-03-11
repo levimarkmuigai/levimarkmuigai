@@ -11,7 +11,7 @@
 
 🔹 Languages: Java, C#, JavaScript
 
-🔹 Backend: .NET, ASP.NET Core
+🔹 Backend: .NET, ASP.NET Core, SpringBoot
 
 🔹 Frontend: HTML, CSS, JavaScript
 

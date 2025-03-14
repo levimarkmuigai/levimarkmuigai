@@ -20,6 +20,14 @@
 🔹 Tools & OS: Arch Linux, Neovim, Git
 
 📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=levimarkmuigai&show_icons=true&theme=great-gatsby" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levimarkmuigai&show_icons=true&layout=compact&theme=dark" alt="Top Languages" /> </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=levimarkmuigai&show_icons=true&theme=great-gatsby" alt="Levi Mark Muigai's GitHub Stats" />
+</p>  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levimarkmuigai&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages" />
+</p>
+
 📫 Contact Me
 📧 Email: levimarkmuigai@gmail.com

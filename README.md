@@ -6,57 +6,68 @@
 
 ## 👋 About Me
 
-I'm a passionate backend developer, currently diving deeper into Java development. I build robust applications using modern tools and frameworks with Java, C#, and JavaScript.
+I’m Levi Mark Muigai, a passionate backend developer with a love for Java and C#. I’m always exploring new technologies and best practices to build robust and scalable applications.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-<p>
-  <strong>Java:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" style="margin-right: 20px;" />
-  <strong>C#:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" style="margin-right: 20px;" />
-  <strong>JavaScript:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin-right: 20px;" />
-</p>
+- **Java**
+- **C#**
+- **JavaScript**
 
-### Frameworks
-<p>
-  <strong>.NET Framework / ASP.NET Core:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" style="margin-right: 20px;" />
-  <strong>Spring Boot:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" style="margin-right: 20px;" />
-</p>
+### Frameworks & Platforms
+- **.NET Framework / ASP.NET Core**
+- **Spring Boot**
 
 ### Frontend
-<p>
-  <strong>HTML5:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" style="margin-right: 20px;" />
-  <strong>CSS3:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" style="margin-right: 20px;" />
-</p>
+- **HTML5**
+- **CSS3**
 
 ### Database
-<p>
-  <strong>PostgreSQL:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-</p>
+- **PostgreSQL**
 
 ### Tools & OS
-<p>
-  <strong>Ubuntu:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" style="margin-right: 20px;" />
-  <strong>Neovim:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" width="40" style="margin-right: 20px;" />
-  <strong>Git:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="margin-right: 20px;" />
-</p>
+- **Ubuntu**
+- **Neovim**
+- **Git**
+
+---
+
+## 🔥 Daily Inspiration
+
+> "Code is like humor. When you have to explain it, it’s bad."  
+> – Cory House
+
+<!-- If you prefer a dynamic quote, you can use a card:  
+![GitHub Quotes](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark)  
+-->
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=levimarkmuigai&show_icons=true&title_color=F89820&icon_color=F89820&text_color=ffffff&bg_color=2E2E2E" alt="Levi Mark Muigai's GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levimarkmuigai&show_icons=true&layout=compact&title_color=F89820&icon_color=F89820&text_color=ffffff&bg_color=2E2E2E" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=levimarkmuigai&theme=darkhub&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: [levimarkmuigai@gmail.com](mailto:levimarkmuigai@gmail.com)
+- 📧 [levimarkmuigai@gmail.com](mailto:levimarkmuigai@gmail.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=levimarkmuigai&style=flat-square)

@@ -6,50 +6,41 @@
 
 ## 👋 About Me
 
-I’m Levi Mark Muigai, a passionate backend developer diving deep into Java development. I build robust and scalable applications using Java, C#, and JavaScript, and I love exploring modern tools and frameworks.
+I'm Levi Mark Muigai, a dedicated backend developer with hands-on experience in Java, C#, and JavaScript. I enjoy building reliable applications, learning new technologies, and collaborating with teams to solve real-world problems.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-<p>
-  <strong>Java:</strong> Java  
-  <strong>C#:</strong> C#  
-  <strong>JavaScript:</strong> JavaScript  
-</p>
+- **Java**
+- **C#**
+- **JavaScript**
 
 ### Frameworks & Platforms
-<p>
-  <strong>.NET Framework / ASP.NET Core:</strong> .NET Framework  
-  <strong>Spring Boot:</strong> Spring Boot  
-</p>
+- **.NET Framework / ASP.NET Core**
+- **Spring Boot**
 
 ### Frontend
-<p>
-  <strong>HTML5:</strong> HTML5  
-  <strong>CSS3:</strong> CSS3  
-</p>
+- **HTML5**
+- **CSS3**
 
 ### Database
-<p>
-  <strong>PostgreSQL:</strong> PostgreSQL  
-</p>
+- **PostgreSQL**
 
-### Tools & OS
-<p>
-  <strong>Ubuntu:</strong> Ubuntu  
-  <strong>Neovim:</strong> Neovim  
-  <strong>Git:</strong> Git  
-</p>
+### Tools & Environment
+- **Ubuntu**
+- **Neovim**
+- **Git**
+- Basic experience with containerization and CI/CD
 
 ---
 
-## 📝 Quote of the Day
+## 🔍 Projects
 
-<p align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?theme=dark&layout=compact" alt="Quote of the Day" />
-</p>
+- **Web Application with Spring Boot:** Built a mid-scale web application utilizing Spring Boot and PostgreSQL.
+- **Team Project in ASP.NET Core:** Contributed to the development of an ASP.NET Core project, enhancing functionality and performance.
+- **Personal Projects:** Developed various smaller projects using JavaScript, HTML5, and CSS3 to experiment with new ideas and technologies.
 
 ---
 
@@ -67,4 +58,4 @@ I’m Levi Mark Muigai, a passionate backend developer diving deep into Java dev
 
 ## 📫 Contact Me
 
-- 📧 [levimarkmuigai@gmail.com](mailto:levimarkmuigai@gmail.com)
+- **Email:** [levimarkmuigai@gmail.com](mailto:levimarkmuigai@gmail.com)

@@ -1,42 +1,37 @@
-# Levi Mark Muigai | Backend Developer (Java & C#)
+# Levi Mark Muigai | Junior Java & C# Developer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F89820&width=435&lines=Backend+Developer;Java%2FC%23+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F89820&width=435&lines=Junior+Developer;Java%2FC%23+Learner" alt="Typing SVG" />
 </a>
 
 ## 👋 About Me
 
-I'm Levi Mark Muigai, a dedicated backend developer with solid experience in Java, C#, and related technologies. I specialize in designing and building high-performance, scalable server-side applications and RESTful APIs that power modern web and mobile solutions.
+Hello! I'm Levi Mark Muigai, an aspiring backend developer with a strong passion for coding. I'm currently honing my skills in Java, C#, and related web technologies through personal projects and continuous learning. I’m excited to collaborate, learn, and grow as I build my career in software development.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 - **Java**
 - **C#**
-- **JavaScript** (for API integrations and scripting)
+- **JavaScript**
 
-### Frameworks & Platforms
-- **Spring Boot** – Building robust REST APIs and microservices.
-- **.NET Framework / ASP.NET Core** – Developing enterprise-grade backend solutions.
-
-### Database
-- **PostgreSQL** – Ensuring data integrity and performance in production systems.
-
-### Tools & Environment
-- **Ubuntu** – Developing in a Linux environment.
-- **Neovim** – Efficient code editing and customization.
-- **Git** – Version control and collaboration.
-- Experience with containerization & CI/CD principles for modern deployment workflows.
+### Frameworks & Tools
+- **Spring Boot** (beginner projects)
+- **ASP.NET Core** (learning phase)
+- **HTML5 & CSS3** (for basic frontend tasks)
+- **PostgreSQL** (basic database experience)
+- **Git** (version control)
+- **Ubuntu** (development environment)
 
 ---
 
-## 📝 Selected Backend Projects
+## 🔍 Projects
 
-- **Spring Boot API:** Developed a RESTful API for a mid-scale web application, focusing on efficient data retrieval and secure authentication.
-- **ASP.NET Core Service:** Contributed to an enterprise project by designing and implementing backend services, improving response times and system stability.
-- **Database-Driven Applications:** Designed and maintained PostgreSQL databases, ensuring optimal query performance and data consistency.
+- **Simple REST API:** Built a basic RESTful API using Spring Boot to practice backend fundamentals.
+- **ASP.NET Core Web App:** Developed a simple web application to improve my C# skills and understand server-side logic.
+- **Personal Projects:** Experimented with small projects to apply new concepts and solve real-world problems.
 
 ---
 

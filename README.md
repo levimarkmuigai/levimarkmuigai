@@ -1,46 +1,42 @@
-# Levi Mark Muigai | Java & C# Developer
+# Levi Mark Muigai | Backend Developer (Java & C#)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F89820&width=435&lines=FullstackRookie;Java%2FC%23+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F89820&width=435&lines=Backend+Developer;Java%2FC%23+Expert" alt="Typing SVG" />
 </a>
 
 ## 👋 About Me
 
-I'm Levi Mark Muigai, a dedicated backend developer with hands-on experience in Java, C#, and JavaScript. I enjoy building reliable applications, learning new technologies, and collaborating with teams to solve real-world problems.
+I'm Levi Mark Muigai, a dedicated backend developer with solid experience in Java, C#, and related technologies. I specialize in designing and building high-performance, scalable server-side applications and RESTful APIs that power modern web and mobile solutions.
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
 ### Languages
 - **Java**
 - **C#**
-- **JavaScript**
+- **JavaScript** (for API integrations and scripting)
 
 ### Frameworks & Platforms
-- **.NET Framework / ASP.NET Core**
-- **Spring Boot**
-
-### Frontend
-- **HTML5**
-- **CSS3**
+- **Spring Boot** – Building robust REST APIs and microservices.
+- **.NET Framework / ASP.NET Core** – Developing enterprise-grade backend solutions.
 
 ### Database
-- **PostgreSQL**
+- **PostgreSQL** – Ensuring data integrity and performance in production systems.
 
 ### Tools & Environment
-- **Ubuntu**
-- **Neovim**
-- **Git**
-- Basic experience with containerization and CI/CD
+- **Ubuntu** – Developing in a Linux environment.
+- **Neovim** – Efficient code editing and customization.
+- **Git** – Version control and collaboration.
+- Experience with containerization & CI/CD principles for modern deployment workflows.
 
 ---
 
-## 🔍 Projects
+## 📝 Selected Backend Projects
 
-- **Web Application with Spring Boot:** Built a mid-scale web application utilizing Spring Boot and PostgreSQL.
-- **Team Project in ASP.NET Core:** Contributed to the development of an ASP.NET Core project, enhancing functionality and performance.
-- **Personal Projects:** Developed various smaller projects using JavaScript, HTML5, and CSS3 to experiment with new ideas and technologies.
+- **Spring Boot API:** Developed a RESTful API for a mid-scale web application, focusing on efficient data retrieval and secure authentication.
+- **ASP.NET Core Service:** Contributed to an enterprise project by designing and implementing backend services, improving response times and system stability.
+- **Database-Driven Applications:** Designed and maintained PostgreSQL databases, ensuring optimal query performance and data consistency.
 
 ---
 

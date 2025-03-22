@@ -6,32 +6,42 @@
 
 ## 👋 About Me
 
-I’m Levi Mark Muigai, a passionate backend developer with a love for Java and C#. I’m always exploring new technologies and best practices to build robust and scalable applications.
+I’m Levi Mark Muigai, a passionate backend developer diving deep into Java development. I build robust and scalable applications using Java, C#, and JavaScript, and love exploring modern tools and frameworks.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- **Java**
-- **C#**
-- **JavaScript**
+<p>
+  <strong>Java:</strong> Java  
+  <strong>C#:</strong> C#  
+  <strong>JavaScript:</strong> JavaScript
+</p>
 
 ### Frameworks & Platforms
-- **.NET Framework / ASP.NET Core**
-- **Spring Boot**
+<p>
+  <strong>.NET Framework / ASP.NET Core:</strong> .NET Framework  
+  <strong>Spring Boot:</strong> Spring Boot
+</p>
 
 ### Frontend
-- **HTML5**
-- **CSS3**
+<p>
+  <strong>HTML5:</strong> HTML5  
+  <strong>CSS3:</strong> CSS3
+</p>
 
 ### Database
-- **PostgreSQL**
+<p>
+  <strong>PostgreSQL:</strong> PostgreSQL
+</p>
 
 ### Tools & OS
-- **Ubuntu**
-- **Neovim**
-- **Git**
+<p>
+  <strong>Ubuntu:</strong> Ubuntu  
+  <strong>Neovim:</strong> Neovim  
+  <strong>Git:</strong> Git
+</p>
 
 ---
 
@@ -40,34 +50,26 @@ I’m Levi Mark Muigai, a passionate backend developer with a love for Java and 
 > "Code is like humor. When you have to explain it, it’s bad."  
 > – Cory House
 
-<!-- If you prefer a dynamic quote, you can use a card:  
-![GitHub Quotes](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark)  
--->
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levimarkmuigai&show_icons=true&title_color=F89820&icon_color=F89820&text_color=ffffff&bg_color=2E2E2E" alt="Levi Mark Muigai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=levimarkmuigai&show_icons=true&title_color=F89820&icon_color=F89820&text_color=333333&bg_color=FAFAFA" alt="Levi Mark Muigai's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levimarkmuigai&show_icons=true&layout=compact&title_color=F89820&icon_color=F89820&text_color=ffffff&bg_color=2E2E2E" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levimarkmuigai&show_icons=true&layout=compact&title_color=F89820&icon_color=F89820&text_color=333333&bg_color=FAFAFA" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 GitHub Trophies
+## 🎉 Fun Fact
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=levimarkmuigai&theme=darkhub&column=7" alt="GitHub Trophies" />
-</p>
+> Did you know? The term "bug" in computing was popularized when a real moth was found causing trouble in a computer—making the first "bug" quite literal!
 
 ---
 
 ## 📫 Contact Me
 
 - 📧 [levimarkmuigai@gmail.com](mailto:levimarkmuigai@gmail.com)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=levimarkmuigai&style=flat-square)

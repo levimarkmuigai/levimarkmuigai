@@ -22,6 +22,7 @@ Hello! I'm Levi Mark Muigai, an aspiring backend developer with a strong passion
 - **ASP.NET Core** (learning phase)
 - **HTML5 & CSS3** (for basic frontend tasks)
 - **PostgreSQL** (basic database experience)
+- **React** (beginner projects) 
 - **Git** (version control)
 - **Ubuntu** (development environment)
 

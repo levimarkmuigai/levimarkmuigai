@@ -1,7 +1,7 @@
 # Levi Mark Muigai | Application/Systems Developer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F89820&width=435&lines=Java Go;DevLord" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F89820&width=435&lines=Fullstack?;DevLord" alt="Typing SVG" />
 </a>
 
 ## 👋 About Me

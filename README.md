@@ -6,16 +6,9 @@
 
 ## 👋 About Me
 
-Hello! I'm Levi Mark Muigai, an aspiring backend developer with a strong passion for coding. I'm currently honing my skills in Java, C#, and related web technologies through personal projects and continuous learning. I’m excited to collaborate, learn, and grow as I build my career in software development.
+Hello! I'm Levi Mark Muigai, an aspiring backend developer with a strong passion for coding. I'm currently honing my skills in Java, Go, JavaScript and related web technologies through personal projects and continuous learning. I’m excited to collaborate, learn, and grow as I build my career in software development.
 
 ---
-
-## 🛠 Tech Stack
-
-### Languages
-- **Java**
-- **C#**
-- **JavaScript**
 
 ### 🧰 Languages and Tools
 
@@ -30,14 +23,6 @@ Hello! I'm Levi Mark Muigai, an aspiring backend developer with a strong passion
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
----
-
-## 🔍 Projects
-
-- **Simple REST API:** Built a basic RESTful API using Spring Boot to practice backend fundamentals.
-- **ASP.NET Core Web App:** Developed a simple web application to improve my C# skills and understand server-side logic.
-- **Personal Projects:** Experimented with small projects to apply new concepts and solve real-world problems.
 
 ---
 

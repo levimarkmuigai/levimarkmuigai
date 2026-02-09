@@ -17,22 +17,6 @@ Current focus:
 
 - Systems and software programming in Rust
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=levimarkmuigai&show_icons=true&title_color=64ffda&icon_color=fca311&text_color=e5e9f0&bg_color=0d1117&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=levimarkmuigai&layout=compact&title_color=64ffda&text_color=e5e9f0&bg_color=0d1117&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
-
 ---
 
 ## Reach Out

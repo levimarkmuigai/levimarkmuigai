@@ -1,24 +1,15 @@
-# Levi Mark Muigai | Application/Systems Engineer
----
-
-<a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=700&color=F89820&width=600&center=true&lines=Engineer+by+Design.;Writing+Code+That+Reads+Like+Thought.;Systems.+AI.+Frontend+Precision."
-    alt="Typing SVG"
-  />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=700&color=A73726&width=600&center=true&vCenter=true&lines=LEVI+MARK+MUIGAI.;SYSTEMS/APPLICATION+DEVELOPER" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## About Me
-I'm Levi, an application and systems developer focused on scalable software design.
-
-Current focus:
-
-- Systems and software programming in Rust
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levimarkmuigai&layout=compact&bg_color=121212&title_color=ffffff&icon_color=A73726&text_color=ffffff&border_color=e1e1e1&bar_color=A73726&hide=html,css,java,makefile,dtrace" alt="Levi's Systems Engineering Stats" />
+</p>
 
 ---
 
-## Reach Out
-
-- Email: levimarkmuigai@gmail.com
+Email: levimarkmuigai@gmail.com

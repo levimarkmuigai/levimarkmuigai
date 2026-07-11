@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://readme-stats-eosin-beta.vercel.app/api?username=levimarkmuigai&show_icons=true&bg_color=121212&title_color=ffffff&icon_color=A73726&text_color=ffffff&border_color=333333&hide_border=false&count_private=true" height="165" />
-  <img src="https://readme-stats-eosin-beta.vercel.app/api/top-langs/?username=levimarkmuigai&layout=compact&bg_color=121212&title_color=ffffff&icon_color=A73726&text_color=ffffff&border_color=333333&bar_color=A73726&hide=html,css,java,makefile,dtrace&langs_count=8&card_width=320" height="165" />
+  <img src="https://readme-stats-eosin-beta.vercel.app/api/top-langs/?username=levimarkmuigai&layout=compact&bg_color=121212&title_color=ffffff&icon_color=A73726&text_color=ffffff&border_color=333333&bar_color=A73726&hide=html,css,java,javascript,makefile,dtrace&langs_count=8&card_width=320" height="165" />
 </p>
 
 ---
